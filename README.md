@@ -1,7 +1,7 @@
 # Todo Cloud App Menggunakan Minikube
 
 ## Identitas
-Nama: Zachari  
+Nama: Zachari Yazid
 NIM: 32602400113  
 Kelas: B  
 Mata Kuliah: Cloud Computing  
